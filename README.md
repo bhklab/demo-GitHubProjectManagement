@@ -21,7 +21,7 @@ A demo and some documentation for using GitHub as our project management tool.
     - Top level grouping for our lab; all lab members are in the organization
     - Teams within an organization to specialize people for specific tasks
       - Teams have their own discussion and project boards
-      - Teams can be assigned broader permissions within a reposity
+      - Teams can be assigned broader permissions within a repository
   - Repo: e.g., [CoreGx](https://github.com/bhklab/CoreGx)
      - Can be administrated by individual users or by teams
      - Have Issues, Labels, Discussions (if you enable them), Project Boards and a Wiki
