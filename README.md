@@ -17,12 +17,12 @@ A demo and some documentation for using GitHub as our project management tool.
   - [Docs](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
 
 ## GitHub Organizations
-  - Organization: bhklab
+  - Organization: e.g., [bhklab](https://github.com/bhklab)
     - Top level grouping for our lab; all lab members are in the organization
     - Teams within an organization to specialize people for specific tasks
       - Teams have their own discussion and project boards
       - Teams can be assigned broader permissions within a reposity
-  - Repo: e.g., [CoreGx]()
+  - Repo: e.g., [CoreGx](https://github.com/bhklab/CoreGx)
      - Can be administrated by individual users or by teams
      - Have Issues, Labels, Discussions (if you enable them), Project Boards and a Wiki
 
